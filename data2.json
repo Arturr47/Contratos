@@ -1,0 +1,29 @@
+{
+  "dia": "20",
+  "mes": "Marzo",
+  "ano": "26",
+  "cliente": "Juan Pérez García",
+  "contacto": "6421234567",
+
+  "local": null,
+  "personas": null,
+  "paquete": null,
+  "dia_semana": null,
+
+  "cantidad": 2500,
+  "cantidad_letras": "Dos mil quinientos pesos",
+
+  "restante": 1500,
+  "restante_letras": "Un mil quinientos pesos",
+
+  "dia_evento": "5",
+  "mes_evento": "Abril",
+  "ano_evento": "26",
+  "hora": "4:00",
+
+  "inflables": ["Brincolín", "Castillo"],
+
+  "feria": true,
+  "globos": false,
+  "otros": false
+}

@@ -1,0 +1,29 @@
+{
+  "dia": "19",
+  "mes": "Marzo",
+  "ano": "26",
+  "cliente": "Sofía Méndez",
+  "contacto": "6423344556",
+
+  "local": "Local 2",
+  "personas": 100,
+  "paquete": "hotdogs",
+  "dia_semana": "miércoles",
+  "alberca": false,
+
+  "cantidad": 6000,
+  "cantidad_letras": "Seis mil pesos",
+
+  "restante": 5980,
+  "restante_letras": "Cinco mil novecientos ochenta pesos",
+
+  "dia_evento": "22",
+  "mes_evento": "Abril",
+  "ano_evento": "26",
+  "hora": "4:00",
+
+  "inflables": ["Brincolín"],
+  "feria": false,
+  "globos": false,
+  "otros": false
+}

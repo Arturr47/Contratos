@@ -1,0 +1,27 @@
+{
+  "dia": "25",
+  "mes": "Marzo",
+  "ano": "26",
+  "cliente": "Diana Flores",
+  "contacto": "6421112233",
+
+  "local": "Local 1",
+  "personas": 100,
+  "paquete": "hotdogs",
+  "dia_semana": "lunes",
+
+  "cantidad": 6000.00,
+  "cantidad_letras": "Seis mil pesos",
+  "restante": 5900.00,
+  "restante_letras": "Cinco mil novecientos pesos",
+
+  "dia_evento": "20",
+  "mes_evento": "Abril",
+  "ano_evento": "26",
+  "hora": "2:00",
+
+  "inflables": [],
+  "feria": false,
+  "globos": false,
+  "otros": false
+}

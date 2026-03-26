@@ -1,0 +1,28 @@
+{
+  "dia": "18",
+  "mes": "Marzo",
+  "ano": "26",
+  "cliente": "Roberto Sánchez",
+  "contacto": "6429001122",
+
+  "local": "Local 1",
+  "personas": null,
+  "paquete": "solo_local",
+  "dia_semana": "lunes",
+
+  "cantidad": 2500,
+  "cantidad_letras": "Dos mil quinientos pesos",
+
+  "restante": 2500,
+  "restante_letras": "Dos mil quinientos pesos",
+
+  "dia_evento": "15",
+  "mes_evento": "Abril",
+  "ano_evento": "26",
+  "hora": "3:00",
+
+  "inflables": [],
+  "feria": false,
+  "globos": false,
+  "otros": false
+}

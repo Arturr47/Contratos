@@ -1,0 +1,27 @@
+{
+  "dia": "25",
+  "mes": "Marzo",
+  "ano": "26",
+  "cliente": "Jorge Ibarra",
+  "contacto": "6425556677",
+
+  "local": "Local 2",
+  "personas": 50,
+  "paquete": "pizza",
+  "dia_semana": "sábado",
+
+  "cantidad": 5000.00,
+  "cantidad_letras": "Cinco mil pesos",
+  "restante": 7880.00,
+  "restante_letras": "Siete mil ochocientos ochenta pesos",
+
+  "dia_evento": "11",
+  "mes_evento": "Abril",
+  "ano_evento": "26",
+  "hora": "5:00",
+
+  "inflables": ["Brincolín"],
+  "feria": true,
+  "globos": false,
+  "otros": true
+}

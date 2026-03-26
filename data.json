@@ -1,0 +1,29 @@
+{
+  "dia": "17",
+  "mes": "Marzo",
+  "ano": "26",
+  "cliente": "María López",
+  "contacto": "6429876543",
+
+  "local": "Local 2",
+  "personas": 100,
+  "paquete": "pizza",
+  "dia_semana": "domingo",
+
+  "cantidad": 16280,
+  "cantidad_letras": "Dieciséis mil doscientos ochenta pesos",
+
+  "restante": 8000,
+  "restante_letras": "Ocho mil pesos",
+
+  "dia_evento": "30",
+  "mes_evento": "Marzo",
+  "ano_evento": "26",
+  "hora": "6:00",
+
+  "inflables": ["Brincolín"],
+
+  "feria": false,
+  "globos": true,
+  "otros": false
+}

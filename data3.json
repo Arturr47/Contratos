@@ -1,0 +1,29 @@
+{
+  "dia": "25",
+  "mes": "Marzo",
+  "ano": "26",
+  "cliente": "Ana Rodríguez Soto",
+  "contacto": "6427654321",
+
+  "local": "Local 1",
+  "personas": 50,
+  "paquete": "hamburguesa",
+  "dia_semana": "viernes",
+
+  "cantidad": 5700,
+  "cantidad_letras": "Cinco mil setecientos pesos",
+
+  "restante": 6000,
+  "restante_letras": "Seis mil pesos",
+
+  "dia_evento": "10",
+  "mes_evento": "Abril",
+  "ano_evento": "26",
+  "hora": "5:00",
+
+  "inflables": [],
+
+  "feria": false,
+  "globos": true,
+  "otros": false
+}
